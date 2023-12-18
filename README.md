@@ -1,4 +1,5 @@
- Sales Insights Project 📊.
+ Sales Insights Project 📊
+ 
 🎯BUSINESS PROBLEM:
 Atliq Hardware, a renowned computer hardware & peripherals company with branches all over India, is facing challenges in comprehending its business performance. Sales are unexpectedly declining, leaving the sales director frustrated. Verbal updates from regional managers make it difficult for the sales director to understand the current status effectively, and tons of Excel files only add to the confusion. To address this frustration, we understand that humans aren't at ease with consuming numbers from Excel.
 
